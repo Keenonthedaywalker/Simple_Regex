@@ -54,32 +54,32 @@
 			"dynn_Bono" #002
 			"dynn_Abron" #003
 			"dynn_Kulango" #004
-			"dynn_Badu"
-			"dynn_Seikwa"
-			"dynn_Nkurange"
-			"dynn_Lorhon"
-			"dynn_Ngwela"
-			"dynn_BabE_"
+			"dynn_Badu" #
+			"dynn_Seikwa" #
+			"dynn_Nkurange" #
+			"dynn_Lorhon" #
+			"dynn_Ngwela" #
+			"dynn_BabE_" #
 			"dynn_Oyoko" #005
-			"dynn_Abohyen"
-			"dynn_Akwapim"
-			"dynn_Adisi"
-			"dynn_Ewotre"
-			"dynn_Agwa"
-			"dynn_Kompa"
-			"dynn_Sehwi"
-			"dynn_Anwhiaso"
-			"dynn_Wiawso"
-			"dynn_Assini"
-			"dynn_Abripiquem"
-			"dynn_Ankobra"
-			"dynn_Kumasi"
-			"dynn_Kokofu"
-			"dynn_Dwaben"
-			"dynn_Nsuta"
-			"dynn_Bretuo"
-			"dynn_Mampong"
-			"dynn_Afigyaase"
+			"dynn_Abohyen" #
+			"dynn_Akwapim" #
+			"dynn_Adisi" #
+			"dynn_Ewotre" #
+			"dynn_Agwa" #
+			"dynn_Kompa" #
+			"dynn_Sehwi" #
+			"dynn_Anwhiaso" #
+			"dynn_Wiawso" #
+			"dynn_Assini" #
+			"dynn_Abripiquem" #
+			"dynn_Ankobra" #
+			"dynn_Kumasi" #
+			"dynn_Kokofu" #
+			"dynn_Dwaben" #
+			"dynn_Nsuta" #
+			"dynn_Bretuo" #
+			"dynn_Mampong" #
+			"dynn_Afigyaase" #
 		}
 
 		male_names = {
@@ -122,22 +122,22 @@
 			"dynn_Aizi"
 		}
 		dynasty_names = {
-			"dynn_Bakwe"
-			"dynn_Kodia"
-			"dynn_Godie"
-			"dynn_Wane"
-			"dynn_Neyo"
-			"dynn_Dida"
-			"dynn_Bete"
-			"dynn_We"
-			"dynn_Glio"
-			"dynn_Ubi"
-			"dynn_Gbii"
-			"dynn_Kuya"
-			"dynn_Kwadia"
-			"dynn_Kuwaa"
-			"dynn_Aizi"
-		}
+			"dynn_Bakwe" #
+			"dynn_Kodia" #
+			"dynn_Godie" #
+			"dynn_Wane" #
+			"dynn_Neyo" #
+			"dynn_Dida" #
+			"dynn_Bete" #
+			"dynn_We" #
+			"dynn_Glio" #
+			"dynn_Ubi" #
+			"dynn_Gbii" #
+			"dynn_Kuya" #
+			"dynn_Kwadia" #
+			"dynn_Kuwaa" #
+			"dynn_Aizi" #
+		} 
 
 		male_names = {
 			Armah Borforh Boryee Cammue Didwho Dolo Dwe Flomo Forkay
@@ -188,21 +188,21 @@
 			"dynn_Densu" #named after a river
 		}
 		dynasty_names = {
-			"dynn_Ntafo"
-			"dynn_Fanti"
-			"dynn_Kyerepong"
-			"dynn_Le"
-			"dynn_Ahanta"
-			"dynn_Obutu"
-			"dynn_Kpesi"
-			"dynn_Anyi"
-			"dynn_Brosa"
-			"dynn_Twifo"
-			"dynn_Akwamu"
-			"dynn_Doma"
-			"dynn_Winneba"
-			"dynn_Kade"
-			"dynn_Nsawan"
+			"dynn_Ntafo" #
+			"dynn_Fanti" #
+			"dynn_Kyerepong" #
+			"dynn_Le" #
+			"dynn_Ahanta" #
+			"dynn_Obutu" #
+			"dynn_Kpesi" #
+			"dynn_Anyi" #
+			"dynn_Brosa" #
+			"dynn_Twifo" #
+			"dynn_Akwamu" #
+			"dynn_Doma" #
+			"dynn_Winneba" #
+			"dynn_Kade" #
+			"dynn_Nsawan" #
 			"dynn_Densu" #named after a river
 		}
 

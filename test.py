@@ -33,5 +33,8 @@ print(test8)
 with open("text.txt", "w", encoding="utf8") as outfile:
     
     for word in output_text:
-        outfile.write((' "'+ word + '", '))
-        print((' "'+ word + '", '))
+        t = (' "'+ word + '", ')
+        test9 = t.replace("dynn_", "")
+        outfile.write(test9)
+        #print(test9)
+        #print((' "'+ word + '", '))
