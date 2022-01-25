@@ -1,6 +1,6 @@
 import re
 
-with open("northGermanic.txt", "r", encoding="utf8") as f:
+with open("akan.txt", "r", encoding="utf8") as f:
     s = f.read()
     print(s)
 
@@ -10,6 +10,7 @@ test = re.sub(r'[0-9\.\s]*(.*)', r'\1\n', s, flags=re.M)
 
 test2 = ','.join(test.split())
 test3 = '",'.join(test.split())
+output_text = test.split(" ")
 
 print(test3)
 
@@ -26,3 +27,11 @@ print(test4)
 print(test5)
 print(test6)
 print(test7)
+print(test8)
+
+
+with open("text.txt", "w", encoding="utf8") as outfile:
+    
+    for word in output_text:
+        outfile.write((' "'+ word + '", '))
+        print((' "'+ word + '", '))
