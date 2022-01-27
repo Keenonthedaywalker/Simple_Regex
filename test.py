@@ -1,6 +1,8 @@
 import re
 
-with open("akan.txt", "r", encoding="utf8") as f:
+# Make sure to add a space and a symbol in the dynasty part of the text file so
+# that commas and quotes are generared correctly.
+with open("baltic.txt", "r", encoding="utf8") as f:
     s = f.read()
     print(s)
 
