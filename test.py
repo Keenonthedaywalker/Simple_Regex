@@ -37,6 +37,12 @@ with open("text.txt", "w", encoding="utf8") as outfile:
     for word in output_text:
         t = (' "'+ word + '", ')
         test9 = t.replace("dynn_", "")
-        outfile.write(test9)
+        test10 = test9.replace('dynnp_gada"', "")
+        test11 = test10.replace('{",', "")
+        test12 = test11.replace('""",', "")
+        test13 = test12.replace('"}",', "")
+        test14 = test13.replace('"#', "")
+        test15 = test14.replace('""dynnp_is"",', "")
+        outfile.write(test15)
         #print(test9)
         #print((' "'+ word + '", '))
